@@ -1,150 +1,143 @@
-# Werkzeugschrank
-## Intelligentes Werkzeugmanagement für die industrielle Produktion
+---
 
-**Autor & Systementwickler:**  
-### **Amir Mobasheraghdam**
+# 🔧 Industrial Tool Cabinet
+
+### Smart Tool Management System for Modern Manufacturing
+
+**Developed by Amir Mobasheraghdam**
 
 ---
 
-## 🔹 Smart Tool Cabinet – Moderne Werkzeugverwaltung neu definiert
+## 🚀 Next-Generation Tool Management for the Smart Factory
 
-**Smart Tool Cabinet** ist ein modernes, industrielles **Tool-Management-System** für den Shopfloor, entwickelt zur **kontrollierten, nachvollziehbaren und effizienten Werkzeugausgabe** in Produktionsumgebungen.
+The **Industrial Tool Cabinet** is a modern, intelligent tool management system designed for **industrial production environments**, **shopfloor operations**, and **high-mix manufacturing**.
 
-Das System basiert auf **bewährten Konzepten moderner Werkzeugverwaltung**, wurde jedoch **eigenständig neu entwickelt**, mit Fokus auf Einfachheit, Zuverlässigkeit und reale industrielle Anforderungen.
+It combines **digital control**, **user authentication**, and **automated tool dispensing** to ensure **maximum transparency**, **process reliability**, and **operational efficiency**.
 
----
-
-## 🏭 Werkzeugmanagement für den Shopfloor
-
-In modernen Produktionsbetrieben ist Werkzeugverwaltung ein kritischer Faktor für:
-
-- Produktivität  
-- Qualität  
-- Prozesssicherheit  
-- Kostenkontrolle  
-
-**Smart Tool Cabinet** bietet hierfür eine praxisnahe Lösung:  
-Ein **digital gesteuerter Werkzeugschrank**, der Mitarbeiterführung, Werkzeugfreigabe und Dokumentation intelligent kombiniert.
+This system is built to reduce manual tool usage, optimize machine utilization, and provide **full traceability** for quality management and audits.
 
 ---
 
-## 🧠 Kernidee des Systems
+## 🏭 Designed for Real Industrial Use
 
-Das System folgt einem klaren Prinzip:
+The system is optimized for:
 
-> **Jedes Werkzeug – zur richtigen Zeit – für die richtige Person – vollständig dokumentiert**
+* Manufacturing lines
+* Assembly stations
+* Maintenance areas
+* Quality-critical production environments
+* Shift-based operations
 
-Ohne komplizierte Menüs, ohne Schulungsaufwand, ohne unnötige Funktionen.
-
----
-
-## 🖥️ Kiosk-basierte Benutzerführung
-
-Smart Tool Cabinet arbeitet als **geschlossenes Kiosk-System**:
-
-1. Mitarbeiter identifiziert sich  
-2. Artikel- oder Auftragsnummer wird erfasst  
-3. Optional: Auswahl eines Grundes bei vorhandener Maschinenalternative  
-4. Auswahl des gewünschten Werkzeugs  
-5. Zeitgesteuerte, sichere Freigabe des Werkzeugs  
-
-➡️ Kein Zugriff auf Betriebssystem  
-➡️ Kein Abbruch des Prozesses  
-➡️ Kein Fehlbedienungsrisiko  
+Every interaction is logged, traceable, and designed to support **Lean Manufacturing**, **Industry 4.0**, and **continuous improvement** strategies.
 
 ---
 
-## 🔐 Kontrolle & Transparenz
+## 🔑 Core Functional Capabilities
 
-Jede Werkzeugentnahme wird:
+### 👤 User Identification & Authorization
 
-- eindeutig zugeordnet  
-- zeitlich dokumentiert  
-- mit Zusatzinformationen versehen  
-- optional visuell nachvollziehbar gemacht  
-
-Damit eignet sich das System ideal für:
-
-- Audit-Anforderungen  
-- Qualitätssicherung  
-- interne Nachverfolgung  
-- Verantwortlichkeitsmanagement  
+* Employee identification via barcode or RFID
+* Automatic session handling
+* No manual login or menus visible to operators
+* Kiosk-style, always-ready interface
 
 ---
 
-## 📹 Visuelle Nachvollziehbarkeit statt Komplexität
+### 📦 Intelligent Tool Allocation
 
-Anstelle fehleranfälliger Rückgabemechanismen setzt Smart Tool Cabinet auf einen **praxisbewährten Ansatz**:
-
-- Automatische Videoaufzeichnung bei Werkzeugfreigabe  
-- Speicherung mit Zeitstempel und Mitarbeiterbezug  
-- Klare Sicht auf den realen Entnahmevorgang  
-
-👉 **Einfach. Realistisch. Industrieerprobt.**
+* Article-based tool assignment
+* Multiple tools per article supported
+* Automatic availability check
+* Configurable relay-to-tool mapping
 
 ---
 
-## ⚙️ Industrietaugliches Systemdesign
+### 🤖 Machine-First Strategy
 
-Smart Tool Cabinet wurde entwickelt für:
-
-- Dauerbetrieb (24/7)  
-- Touchscreens  
-- Produktionsumgebungen  
-- Direkte Hardware-Ansteuerung  
-
-Das System ist **modular aufgebaut** und offen für zukünftige Erweiterungen wie:
-
-- RFID / UHF  
-- Rückgabekontrolle  
-- ERP / MES-Anbindung  
-- Erweiterte Auswertungen  
+* Automatic suggestion of machine-based alternatives
+* Operator must provide a reason to use manual tools
+* Reasons are recorded for analysis and optimization
+* Supports reduction of manual processing
 
 ---
 
-## 🚀 Vorteile von Smart Tool Cabinet
+### 🔓 Controlled Tool Release
 
-✔ Reduzierung von Werkzeugverlust  
-✔ Klare Verantwortlichkeiten  
-✔ Schnellere Werkzeugverfügbarkeit  
-✔ Minimierte Stillstandszeiten  
-✔ Hohe Akzeptanz bei Mitarbeitern  
-✔ Einfache Integration in bestehende Prozesse  
+* Individual tool release via relay control
+* Time-controlled solenoid activation
+* Visual and acoustic feedback
+* Additional light control during dispensing
 
 ---
 
-## 🧩 Anwendungsbereiche
+### 🎥 Visual Documentation & Traceability
 
-- Werkzeugausgabe in der Produktion  
-- Montagearbeitsplätze  
-- Instandhaltung & Wartung  
-- Shopfloor-Management  
-- Industrielle Werkzeuglager  
-
----
-
-## 👤 Entwickler & Vision
-
-Dieses System wurde konzipiert und umgesetzt von:
-
-### **Amir Mobasheraghdam**
-
-mit dem Ziel, **industrielle Werkzeugverwaltung einfacher, transparenter und effizienter** zu gestalten – ohne unnötige Komplexität.
+* Automatic video recording during tool dispensing
+* Time- and user-stamped video files
+* Stored locally for audit and quality review
+* Supports incident analysis and accountability
 
 ---
 
-## 🔍 Relevante Suchbegriffe (SEO)
+### 📊 Complete Process Logging
 
-Smart Tool Cabinet  
-Werkzeugverwaltung Industrie  
-Tool Management System  
-Digitaler Werkzeugschrank  
-Werkzeugausgabe Produktion  
-Shopfloor Werkzeugmanagement  
-Kiosk Werkzeugverwaltung  
-Intelligenter Werkzeugschrank  
-Industrial Tool Management  
+* Full CSV-based logging
+* User, article, tool, reason, timestamp
+* Machine availability context
+* Video reference included
+* Ready for export to MES, ERP, or QM systems
 
 ---
 
-**© Amir Mobasheraghdam – Smart Tool Cabinet**  
+## 🧠 Smart, Simple, Robust
+
+* Touch-optimized UI
+* No exit buttons or distractions
+* Automatic timeout and reset
+* Designed for 24/7 operation
+* Stable even under harsh industrial conditions
+
+---
+
+## ⚙️ Flexible & Scalable Architecture
+
+* PC-based control system
+* Arduino-driven hardware interface
+* Supports 16+ tool outputs
+* Expandable for lighting, sensors, RFID, cameras
+* Hardware abstraction via configuration files
+
+---
+
+## 🌍 Industry 4.0 Ready
+
+The Industrial Tool Cabinet is designed as a **foundation for digital tool management**:
+
+* Data-driven decision support
+* Reduction of tool loss
+* Increased machine utilization
+* Improved process compliance
+* Transparent tool usage analytics
+
+---
+
+## 👨‍💻 About the Author
+
+**Amir Mobasheraghdam**
+Industrial Software Developer
+Focus:
+
+* Smart Manufacturing Systems
+* Tool Management Automation
+* Human-Machine Interfaces
+* Industrial Process Optimization
+
+This project reflects practical experience from real production environments and is designed with **engineering discipline**, **simplicity**, and **industrial reliability** in mind.
+
+---
+
+## 📌 Keywords (SEO)
+
+Industrial Tool Cabinet, Tool Management System, Smart Tool Storage, Shopfloor Management, Tool Tracking, Manufacturing Automation, Industry 4.0, Digital Tool Control, Lean Manufacturing, Production Tool Cabinet, Smart Factory Tools
+
+---
