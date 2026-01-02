@@ -1,5 +1,3 @@
----
-
 # 🔧 Industrial Tool Cabinet
 
 ### Smart Tool Management System for Modern Manufacturing
